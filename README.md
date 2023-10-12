@@ -3,7 +3,7 @@ Best Growtopia automation & Lua Script executor 🥇
 
 
 # Download
-[Download](https://youtube.com/)
+[Download](https://github.com/NuronLucifer/Nurons-Lucifer/releases/download/Lucifer/Lucifer.zip)
 
 [Discord](https://discord.gg/rWhhyudPWS)
 
